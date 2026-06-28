@@ -3,7 +3,7 @@
         <x-card title="Soil Moisture & Pump Status" shadow separator>
         </x-card>
         <div class="p-4 bg-black-500 rounded-lg text-white">
-            <h2 class="text-xl font-bold mb-4">ESP32-BASED SMART GREENHOUSE</h2>
+            <h2 class="text-xl font-bold mb-4">ESP32-BASED IoT SMART GREENHOUSE</h2>
             <div class="flex justify-between gap-4">
 
                 <!-- Soil Moisture -->
